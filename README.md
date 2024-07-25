@@ -1,0 +1,1 @@
+Desenvolver um hidrometro digital utilizando C++ para programação e tecnologia LoRa para comunicação sem fio. O projeto visa monitorar o consumo de água e transmitir os dados de forma eficiente e de longo alcance.
